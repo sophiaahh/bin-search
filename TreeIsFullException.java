@@ -1,8 +1,7 @@
 package implementation;
 
 /**
- * Thrown when a tree is full. Do not modify this class.
- * 
+ * Thrown when a tree is full. 
  * 
  */
 public class TreeIsFullException extends Exception {
