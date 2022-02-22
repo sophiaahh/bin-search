@@ -2,9 +2,7 @@ package implementation;
 
 /**
  * 
- * Use to keep track of key/value pairs retrieved from the tree. Do not modify
- * this class.
- * 
+ * Use to keep track of key/value pairs retrieved from the tree. 
  * 
  * @param <K>
  * @param <V>
