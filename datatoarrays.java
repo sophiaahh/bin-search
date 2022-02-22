@@ -6,9 +6,7 @@ import java.util.*;
  * 
  * Example of a callback class. This callback stores the key and values of a
  * node in ArrayLists. Those values can later on be accessed using the provided
- * get methods. Do not modify this class.
- * 
- * 
+ * get methods. 
  * 
  * @param <K>
  * @param <V>
